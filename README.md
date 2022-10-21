@@ -13,7 +13,7 @@
   
 
 
-  <div style="display: inline_block"><br>
+  <div style="display: inline_block" align="center"><br>
   <p><h2>Languages and Tools:</h2></p>
   <img align="center" alt="lipe-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="lipe--CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
