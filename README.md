@@ -22,7 +22,7 @@
   <img align="center" alt="lipe-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="lipe--CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="lipe--AWS" height="60" width="70" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg">
-  <img align="center" alt="lipe--CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="lipe--CSS" height="65" width="75" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
       
 
 
