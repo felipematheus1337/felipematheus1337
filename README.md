@@ -35,7 +35,7 @@
 <h2 title="Contato" align="center">Entre em contato! 📬 </h2>
 
 <div align="center"> 
-<img align='right' src='https://img1.picmix.com/output/stamp/normal/8/6/5/6/1756568_c4174.gif' width='100px'>
+ <img align='right' src='https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif' width='150px'>
 <img align='left' src='http://31.media.tumblr.com/tumblr_mdjdhmnIPJ1r6x1zlo1_400.gif' width='100px'>
   <a title="E-mail" href="mailto:lipehbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a title="LinkedIn" href="https://www.linkedin.com/in/felipe-matheus-34232b162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
