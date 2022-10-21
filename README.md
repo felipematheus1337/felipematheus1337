@@ -11,10 +11,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=gotham"/>
 </div>
   
-  <img align='left' src='https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif' width='150px'>
-  <img align='right' src='https://giffiles.alphacoders.com/360/36088.gif' width='100px'>
+
 
   <div style="display: inline_block"><br>
+  <p><h2>Languages and Tools:</h2></p>
   <img align="center" alt="lipe-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="lipe--CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="lipe-Js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
