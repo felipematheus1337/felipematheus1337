@@ -8,7 +8,7 @@
   <a href="https://github.com/felipematheus1337">
 
     
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=outrun"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div>
   
 
