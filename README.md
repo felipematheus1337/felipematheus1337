@@ -2,13 +2,13 @@
 
 <h4>Sou um Desenvolvedor Fullstack, entusiasta de Tecnologia, Games e Arte Marcial! </h4>
 
-<h3 align="center">Linguagens mais utilizadas:</h3>
+<!--- <h3 align="center">Linguagens mais utilizadas:</h3>
 <div align="center">
   
   <a href="https://github.com/felipematheus1337">
 
     
-  <!--- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div> -->
   
 
