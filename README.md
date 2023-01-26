@@ -1,6 +1,6 @@
 ### Olá! Eu sou Felipe Matheus, Welcome!!!
 
-<h4>Sou um Desenvolvedor Fullstack, entusiasta de Tecnologia e Games! Sempre em busca de novos desafios, e aberto para novas oportunidades, abaixo há o link para o meu site/portfolio! </h4>
+<h4>Sou um Desenvolvedor Fullstack, entusiasta de Tecnologia e Games! Sempre em busca de novos desafios, abaixo há o link para o meu site. </h4>
 
 <p>https://felipematheusportfolio.vercel.app/</p>
 
