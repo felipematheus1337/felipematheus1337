@@ -12,7 +12,7 @@
 
   <div style="display: inline_block" align="left"><br>
   <p><h2>Languages and Tools:</h2></p>
-  <img align="center" alt="lipe-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <p aling="left"> <img align="center" alt="lipe-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   &ensp;
   <img align="center" alt="lipe--CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   &ensp;
@@ -47,6 +47,7 @@
    &ensp;
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
  &ensp;
+  </p>
 
 
 </div>
