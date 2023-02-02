@@ -65,7 +65,6 @@
 <img align='left' src='http://31.media.tumblr.com/tumblr_mdjdhmnIPJ1r6x1zlo1_400.gif' width='100px'>
   <a title="E-mail" href="mailto:lipehbr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a title="LinkedIn" href="https://www.linkedin.com/in/felipe-matheus-34232b162/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a title="Twitter" href="https://twitter.com/felipemath73" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a title="Telegram" href="https://t.me/felipem1337" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </p>
 
