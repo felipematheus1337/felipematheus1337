@@ -8,7 +8,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipematheus1337&label=Profile%20views&color=0e75b6&style=flat" alt="felipematheus1337" /> </p>
 
 <div > <a align="left" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipematheus1337&title=Followers,Repositories,Commits,Stars&theme=onedark" alt="myself-felipe" /></a>
- <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus"/>
+ <img align="right" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div>
  
   
