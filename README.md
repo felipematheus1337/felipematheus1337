@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipematheus1337&label=Profile%20views&color=0e75b6&style=flat" alt="felipematheus1337" /> </p>
 
-<div > <a align="left" href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipematheus1337&title=Followers,Repositories,Commits,Stars&theme=onedark" alt="myself-felipe" /></a>
+<div style="display: inline_block" align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felipematheus1337&title=Followers,Repositories,Commits,Stars&theme=onedark" alt="myself-felipe" /></a>
  <img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus"/>
 </div>
  
@@ -15,7 +15,7 @@
 
   <div style="display: inline_block" align="left"><br>
   <p><h2>Languages and Tools:</h2></p>
-  <p aling="left"> <img alt="lipe-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+  <p align="left"> <img alt="lipe-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img  alt="lipe--CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
  <img  alt="lipe-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img  alt="lipe--React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
