@@ -11,9 +11,8 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy">
  <img style="display: inline" src="https://github-profile-trophy.vercel.app/?username=felipematheus1337&title=Followers,Repositories,Commits,Stars&theme=onedark" alt="myself-felipe" />
 </div>
- <img style="display: inline" align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus" />
  
-  
+ 
 
   <div style="display: inline_block" align="left"><br>
   <p><h2>Languages and Tools:</h2></p>
@@ -47,6 +46,9 @@
    &ensp;
   <p align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipematheus1337&theme=dark&border=A2B9EB" alt="myself-lipe" /></p>
  &ensp;
+ <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus" />
+</p> 
+
 <h2 title="Contato" align="center">Entre em contato! 📬 </h2>
 
 <div align="center"> 
