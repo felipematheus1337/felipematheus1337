@@ -10,7 +10,7 @@
 <div style="display: inline" align="left">
  <a href="https://github.com/ryo-ma/github-profile-trophy">
  <img style="display: inline" src="https://github-profile-trophy.vercel.app/?username=felipematheus1337&title=Followers,Repositories,Commits,Stars&theme=onedark" alt="myself-felipe" />
- <img style="display: inline" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus" />
+ <img style="display: inline" align="center" height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus" />
 </div>
  
   
