@@ -47,7 +47,7 @@
    &ensp;
   <p align="center"><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=felipematheus1337&theme=dark&border=A2B9EB" alt="myself-lipe" /></p>
  &ensp;
- <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=7&theme=noctis_minimus" />
+ <p align="center"><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=8&theme=noctis_minimus" />
 </p> 
 
 <h2 title="Contato" align="center">Entre em contato! 📬 </h2>
