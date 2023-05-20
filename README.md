@@ -1,7 +1,7 @@
 ### 
-<h1 align="center">Olá 👋, Eu sou Felipe Matheus!</h1>
+<h1 align="center">Hello 👋, I'm Felipe Matheus!</h1>
 
-<h3 align="center">Sou um Desenvolvedor Fullstack, entusiasta de Tecnologia e Games! Sempre em busca de novos desafios, abaixo há o link para o meu site. </h4>
+<h3> A proactive and agile Full-stack Software Developer. I have a strong passion for technology and games, always seeking new challenges and knowledge. With a quick learning ability and effective communication skills, I can contribute to various areas of software development. </h4>
 
 <p align="center"><h4 align="center">https://felipematheusportfolio.vercel.app/</h4></p>
 
@@ -53,7 +53,7 @@
  <p align="center"><img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipematheus1337&layout=compact&langs_count=8&theme=onedark" />
 </p> 
 
-<h2 title="Contato" align="center">Entre em contato! 📬 </h2>
+<h2 title="Contato" align="center">Contact! 📬 </h2>
 
 <div align="center"> 
  <img align='right' src='https://i.pinimg.com/originals/9d/9b/d1/9d9bd13afce1a798d22ecfd9897730ed.gif' width='150px'>
